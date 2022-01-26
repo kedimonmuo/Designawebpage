@@ -16,7 +16,6 @@ body {
     text-align:center;
     margin-top: auto;
     
-    
  }
 
 .footer { 
@@ -27,7 +26,28 @@ body {
         bottom:0;
         width: 100%;
         z-index: 1;
-        text-align:center;
+        text-align: center;
 
+}
+
+#container {
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-color: #FFF8DE;
+    padding-top: 15rem;
+    padding-bottom: 20rem;
+    
+
+
+}
+
+section.contact {
+    position: relative;
+    overflow: hidden;
+    background-color: #FFF8DE;
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+    text-align: center;
 }
 
