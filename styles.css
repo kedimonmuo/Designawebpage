@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color:rgb(110, 92, 209);
+    text-decoration-style: dashed;
+  }
+
+
+body {
+   
+      background-color: #f1f1f1;
+
+  }
+
+ p   {
+     
+    text-align:center;
+    margin-top: auto;
+    
+    
+ }
+
+.footer { 
+
+        height: 100px;
+        margin: 0px;
+        position: fixed;
+        bottom:0;
+        width: 100%;
+        z-index: 1;
+        text-align:center;
+
+}
+
