@@ -20,7 +20,7 @@ body {
 
 .footer { 
 
-        height: 100px;
+        height: 150px;
         margin: 0px;
         position: fixed;
         bottom:0;
@@ -34,20 +34,18 @@ body {
     text-align: center;
     position: relative;
     overflow: hidden;
-    background-color: #FFF8DE;
-    padding-top: 15rem;
-    padding-bottom: 20rem;
+    background-color: #c5cae6;
+    padding-top: 8rem;
+    padding-bottom: 12rem;
     
-
 
 }
 
 section.contact {
     position: relative;
     overflow: hidden;
-    background-color: #FFF8DE;
+    background-color: #eff7e9;
     padding-top: 3rem;
-    padding-bottom: 8rem;
+    padding-bottom: 10rem;
     text-align: center;
 }
-
