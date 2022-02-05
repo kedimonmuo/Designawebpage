@@ -11,10 +11,21 @@ body {
 
   }
 
- p   {
+ .box   {
+     justify-content:center;
+     text-align:center;
+     height:100px;
+     width:200px;
+     margin-left: 35%;
+     margin-right: 65%;
+     padding-left: 5em;
+     padding-right: 5em;
+     opacity:0.5;
+     background-color: aquamarine;
+     z-index: 1;
+     overflow-x: hidden;
      
-    text-align:center;
-    margin-top: auto;
+
     
  }
 
